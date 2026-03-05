@@ -1,4 +1,4 @@
-package com.tienda;
+package com.hotel;
 
 import java.util.Locale;
 import org.springframework.context.MessageSource;
